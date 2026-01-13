@@ -30,5 +30,5 @@ I enjoy building real-world applications and learning by doing.
 Alicante, Spain
 
 ### 📫 Let's connect
-- GitHub: https://github.com/ChristianRodes
+- Linkedin: https://www.linkedin.com/in/christian-rodes/
 
