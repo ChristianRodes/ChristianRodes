@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi, I'm Chris 👋
 
-<!--
-**ChristianRodes/ChristianRodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full-Stack Developer with a strong product mindset.
+I enjoy building real-world applications and learning by doing.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Frontend:** Next.js, Tailwind CSS, HTML, CSS
+- **Backend:** Node.js, PHP
+- **Database:** MySQL
+- **Tools:** Git, GitHub, npm
+- **Other:** Product Management fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **php-mysql-ecommerce-stripe**  
+  Full e-commerce project with payments integration using Stripe.
+
+- **nodejs-library-catalog**  
+  Modular Node.js project focused on JavaScript fundamentals and structure.
+
+- **Portfolio (Astro + Tailwind)**  
+  Personal portfolio showcasing projects and skills.
+
+### 🎯 What I'm focusing on now
+- Improving backend skills with Node.js
+- Building full-stack projects
+- Writing clean, maintainable code
+- Growing as a product-oriented developer
+
+### 📍 Location
+Alicante, Spain
+
+### 📫 Let's connect
+- GitHub: https://github.com/ChristianRodes
+
