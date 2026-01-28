@@ -3,6 +3,11 @@
 Junior Full-Stack Developer with a strong product mindset.
 I enjoy building real-world applications and learning by doing.
 
+
+### 💼 Current Projects
+- **[ProductPartner]([url](https://www.productpartner.io/en))'s website** -> currently working on the services and case-studies pages.
+- **[E-commerce Project]([url](https://christianrodes.infinityfreeapp.com/))** --> Developing an e-commerce for my Golf brand using PHP and Stripe API
+
 ### 🛠 Tech Stack
 - **Frontend:** Next.js, Tailwind CSS, HTML, CSS
 - **Backend:** Node.js, PHP
