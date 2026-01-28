@@ -5,7 +5,7 @@ I enjoy building real-world applications and learning by doing.
 
 
 ### 💼 Current Projects
-- **[ProductPartner](https://www.productpartner.io/en)'s website** -> currently working on the services and case-studies pages.
+- **[ProductPartner's](https://www.productpartner.io/en) website** -> currently working on the services and case-studies pages.
 - **[E-commerce Project](https://christianrodes.infinityfreeapp.com/)** --> Developing an e-commerce for my Golf brand using PHP and Stripe API
 
 ### 🛠 Tech Stack
