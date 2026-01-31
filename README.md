@@ -5,8 +5,8 @@ I enjoy building real-world applications and learning by doing.
 
 
 ### 💼 Current Projects
-- **[ProductPartner's](https://www.productpartner.io/en) website** -> currently working on the services and case-studies pages.
-- **[E-commerce Project](https://christianrodes.infinityfreeapp.com/)** --> Developing an e-commerce for my Golf brand using PHP and Stripe API
+- **[ProductPartner's](https://www.productpartner.io/en) website** -> currently working on the services and case-studies pages | Next.JS, Tailwind CSS
+- **[E-commerce Project](https://christianrodes.infinityfreeapp.com/)** --> Developing an e-commerce for my Golf brand using PHP and Stripe API | PHP
 
 ### 🛠 Tech Stack
 - **Frontend:** Next.js, Tailwind CSS, HTML, CSS
