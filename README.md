@@ -22,8 +22,6 @@ I enjoy building real-world applications and learning by doing.
 - **nodejs-library-catalog**  
   Modular Node.js project focused on JavaScript fundamentals and structure.
 
-- **Portfolio (Astro + Tailwind)**  
-  Personal portfolio showcasing projects and skills.
 
 ### 🎯 What I'm focusing on now
 - Improving backend skills with Node.js
