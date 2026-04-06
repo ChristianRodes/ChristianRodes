@@ -1,6 +1,6 @@
 ## Hi, I'm Chris 👋
 
-Junior Full-Stack Developer with a strong product mindset.
+Product Builder
 I enjoy building real-world applications and learning by doing.
 
 
