@@ -1,8 +1,6 @@
 ## Hi, I'm Chris 👋
 
-Product Builder
-I enjoy building real-world applications and learning by doing.
-
+Product Builder.
 
 ### 💼 Current Projects
 - **[ProductPartner's](https://www.productpartner.io/en) website** -> currently working on the services and case-studies pages | Next.JS, Tailwind CSS
