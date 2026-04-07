@@ -3,8 +3,8 @@
 Product Builder.
 
 ### 💼 Current Projects
-- **[Portfolio](https://christian-rodes.vercel.app/es) website** -> Up to date portfolio | Next.JS, Tailwind CSS
-- **[ProductPartner's](https://www.productpartner.io/en) website** -> Case Study | Next.JS, Tailwind CSS
+- **[Portfolio](https://christian-rodes.vercel.app/es)** -> Up-to-date portfolio | Next.JS, Tailwind CSS
+- **[ProductPartner's](https://www.productpartner.io/en) website** -> Designed and developed new responsive pages for the case studies and services to enhance SEO | Next.JS, Tailwind CSS
 - **[E-commerce Project](https://christianrodes.infinityfreeapp.com/)** --> Developing an e-commerce for my Golf brand using PHP and Stripe API | PHP
 
 ### 🛠 Tech Stack
