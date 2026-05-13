@@ -6,7 +6,7 @@ Product Builder.
 - **[Portfolio](https://christian-rodes.vercel.app/es)** -> Up-to-date portfolio | Next.JS, Tailwind CSS
 - **[GolfClass](https://golfclass.ct.ws/index.php)** -> Full-stack platform connecting golf teachers and students, built as a Final Degree Project.| PHP, Bootstrap, InfinityFree.
 - **[ProductPartner's](https://www.productpartner.io/en) website** -> Designed and developed new responsive pages for the case studies and services to enhance SEO | Next.JS, Tailwind CSS
-- **[E-commerce Project](https://christianrodes.infinityfreeapp.com/)** --> Developing an e-commerce for my Golf brand using PHP and Stripe API | PHP
+- **[E-commerce Project](https://domingueroclub.ct.ws/)** --> E-commerce for my Golf brand using PHP and Stripe API | PHP, Bootstrap, Stripe API
 
 ### 🛠 Tech Stack
 - **Frontend:** Next.js, Tailwind CSS, HTML, CSS
